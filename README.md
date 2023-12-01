@@ -4,6 +4,10 @@
 
 This repository was created for the 2023 Advent of Code puzzles using the [nrlw/t-aoc-starter](https://github.com/nrwl/ts-aoc-starter)
 
+## Disclaimer
+
+This repository does not reflect code I write in a professional setting. 😅
+ 
 
 ## Running the Puzzles
 
