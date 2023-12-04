@@ -9,8 +9,8 @@ dependencies:
     specifier: latest
     version: 5.3.0
   ts-aoc-starter:
-    specifier: 1.0.2
-    version: 1.0.2(nx@17.1.3)
+    specifier: 1.0.4
+    version: 1.0.4(nx@17.1.3)
 
 devDependencies:
   '@nx/workspace':
@@ -1103,8 +1103,8 @@ packages:
     dependencies:
       rimraf: 3.0.2
 
-  /ts-aoc-starter@1.0.2(nx@17.1.3):
-    resolution: {integrity: sha512-LvhXejs2ZN9iY/HJ2s7T7ztcKBQnK6DR8usMh+2cK2RlZn34bVsrUV8Z8R+ds6vJE+h0vpqDvdw77JQcGKqT7Q==}
+  /ts-aoc-starter@1.0.4(nx@17.1.3):
+    resolution: {integrity: sha512-OtuHaiBDwPROGvNC/buVpExojDBQ8tzXaqqb7P5O9tNV9zZO3z5yaPTE53TthSXI5D0JtCMHYDk1pTC87eEysw==}
     dependencies:
       '@nx/devkit': 17.1.3(nx@17.1.3)
       tslib: 2.6.2
