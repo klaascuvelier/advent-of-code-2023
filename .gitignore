@@ -39,3 +39,7 @@ testem.log
 Thumbs.db
 
 .nx/cache
+
+# Dont share puzzle inputs: https://www.reddit.com/r/adventofcode/wiki/troubleshooting/no_asking_for_inputs/
+*.sample-data.txt
+*.data.txt
